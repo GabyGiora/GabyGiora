@@ -1,4 +1,4 @@
-## Olá eu sou a Gabrielly
+## Olá, eu sou a Gabrielly
 
 <div align="center">
   <a href="https://github.com/GabyGiora">
