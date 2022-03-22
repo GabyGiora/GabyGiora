@@ -10,7 +10,9 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="http://pa1.narvii.com/6543/6fa7754c60bb9e1bbedc90484575c8a8eaee9452_00.gif">
+    
+    
  
   
    ##
