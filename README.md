@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="http://pa1.narvii.com/6543/6fa7754c60bb9e1bbedc90484575c8a8eaee9452_00.gif">
-    
+  </div>
     
  
   
